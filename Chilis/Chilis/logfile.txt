@@ -1,0 +1,465 @@
+2013-02-05 00:35:10,009: INFO  – This is mmm
+2013-02-05 00:35:10,025: WARN  – This is warning
+2013-02-05 00:35:10,025: ERROR – This error
+2013-02-05 00:35:10,025: DEBUG – this debug 
+2013-02-05 00:44:51,587: INFO  – This is mmm
+2013-02-05 00:44:51,587: WARN  – This is warning
+2013-02-05 00:44:51,587: ERROR – This error
+2013-02-05 00:44:51,587: DEBUG – this debug 
+2013-02-05 00:49:17,400: INFO  – This is mmm
+2013-02-05 00:49:17,415: WARN  – This is warning
+2013-02-05 00:49:17,415: ERROR – This error
+2013-02-05 00:49:17,415: DEBUG – this debug 
+2013-02-05 00:49:20,603: INFO  – This is mmm
+2013-02-05 00:49:20,603: WARN  – This is warning
+2013-02-05 00:49:20,603: ERROR – This error
+2013-02-05 00:49:20,603: DEBUG – this debug 
+2013-02-05 00:50:59,353: ERROR – Error Error al convertir el valor del parámetro de String a DateTime.Metodo :MantenimientoSolicitud
+2013-02-05 00:52:52,134: INFO  – This is mmm
+2013-02-05 00:52:52,150: WARN  – This is warning
+2013-02-05 00:52:52,150: ERROR – This error
+2013-02-05 00:52:52,150: DEBUG – this debug 
+2013-02-05 00:52:54,947: INFO  – This is mmm
+2013-02-05 00:52:54,947: WARN  – This is warning
+2013-02-05 00:52:54,947: ERROR – This error
+2013-02-05 00:52:54,947: DEBUG – this debug 
+2013-02-05 22:32:41,578: INFO  – This is mmm
+2013-02-05 22:32:41,610: WARN  – This is warning
+2013-02-05 22:32:41,610: ERROR – This error
+2013-02-05 22:32:41,610: DEBUG – this debug 
+2013-02-05 22:32:46,125: INFO  – This is mmm
+2013-02-05 22:32:46,125: WARN  – This is warning
+2013-02-05 22:32:46,125: ERROR – This error
+2013-02-05 22:32:46,125: DEBUG – this debug 
+2013-02-05 22:34:14,422: INFO  – This is mmm
+2013-02-05 22:34:14,422: WARN  – This is warning
+2013-02-05 22:34:14,422: ERROR – This error
+2013-02-05 22:34:14,422: DEBUG – this debug 
+2013-02-05 22:34:17,875: INFO  – This is mmm
+2013-02-05 22:34:17,875: WARN  – This is warning
+2013-02-05 22:34:17,875: ERROR – This error
+2013-02-05 22:34:17,875: DEBUG – this debug 
+2013-02-05 22:34:38,219: INFO  – This is mmm
+2013-02-05 22:34:38,219: WARN  – This is warning
+2013-02-05 22:34:38,219: ERROR – This error
+2013-02-05 22:34:38,219: DEBUG – this debug 
+2013-02-05 22:34:41,297: INFO  – This is mmm
+2013-02-05 22:34:41,297: WARN  – This is warning
+2013-02-05 22:34:41,297: ERROR – This error
+2013-02-05 22:34:41,297: DEBUG – this debug 
+2013-02-05 22:36:31,094: INFO  – This is mmm
+2013-02-05 22:36:31,094: WARN  – This is warning
+2013-02-05 22:36:31,094: ERROR – This error
+2013-02-05 22:36:31,094: DEBUG – this debug 
+2013-02-05 22:36:37,547: INFO  – This is mmm
+2013-02-05 22:36:37,547: WARN  – This is warning
+2013-02-05 22:36:37,547: ERROR – This error
+2013-02-05 22:36:37,547: DEBUG – this debug 
+2013-02-05 22:37:11,657: INFO  – This is mmm
+2013-02-05 22:37:11,657: WARN  – This is warning
+2013-02-05 22:37:11,657: ERROR – This error
+2013-02-05 22:37:11,657: DEBUG – this debug 
+2013-02-05 22:37:14,516: INFO  – This is mmm
+2013-02-05 22:37:14,516: WARN  – This is warning
+2013-02-05 22:37:14,516: ERROR – This error
+2013-02-05 22:37:14,516: DEBUG – this debug 
+2013-02-05 22:37:49,516: INFO  – This is mmm
+2013-02-05 22:37:49,532: WARN  – This is warning
+2013-02-05 22:37:49,532: ERROR – This error
+2013-02-05 22:37:49,532: DEBUG – this debug 
+2013-02-05 22:37:52,407: INFO  – This is mmm
+2013-02-05 22:37:52,407: WARN  – This is warning
+2013-02-05 22:37:52,407: ERROR – This error
+2013-02-05 22:37:52,407: DEBUG – this debug 
+2013-02-05 22:39:57,110: INFO  – This is mmm
+2013-02-05 22:39:57,125: WARN  – This is warning
+2013-02-05 22:39:57,125: ERROR – This error
+2013-02-05 22:39:57,125: DEBUG – this debug 
+2013-02-05 22:40:00,375: INFO  – This is mmm
+2013-02-05 22:40:00,375: WARN  – This is warning
+2013-02-05 22:40:00,375: ERROR – This error
+2013-02-05 22:40:00,375: DEBUG – this debug 
+2013-02-05 22:40:45,172: INFO  – This is mmm
+2013-02-05 22:40:45,188: WARN  – This is warning
+2013-02-05 22:40:45,188: ERROR – This error
+2013-02-05 22:40:45,188: DEBUG – this debug 
+2013-02-05 22:40:48,344: INFO  – This is mmm
+2013-02-05 22:40:48,344: WARN  – This is warning
+2013-02-05 22:40:48,344: ERROR – This error
+2013-02-05 22:40:48,344: DEBUG – this debug 
+2013-02-05 22:42:42,407: INFO  – This is mmm
+2013-02-05 22:42:42,422: WARN  – This is warning
+2013-02-05 22:42:42,422: ERROR – This error
+2013-02-05 22:42:42,422: DEBUG – this debug 
+2013-02-05 22:42:46,563: INFO  – This is mmm
+2013-02-05 22:42:46,563: WARN  – This is warning
+2013-02-05 22:42:46,563: ERROR – This error
+2013-02-05 22:42:46,563: DEBUG – this debug 
+2013-02-05 22:43:24,782: INFO  – This is mmm
+2013-02-05 22:43:24,797: WARN  – This is warning
+2013-02-05 22:43:24,797: ERROR – This error
+2013-02-05 22:43:24,797: DEBUG – this debug 
+2013-02-05 22:43:27,766: INFO  – This is mmm
+2013-02-05 22:43:27,766: WARN  – This is warning
+2013-02-05 22:43:27,766: ERROR – This error
+2013-02-05 22:43:27,766: DEBUG – this debug 
+2013-02-06 00:38:58,047: INFO  – This is mmm
+2013-02-06 00:38:58,063: WARN  – This is warning
+2013-02-06 00:38:58,063: ERROR – This error
+2013-02-06 00:38:58,063: DEBUG – this debug 
+2013-02-06 00:39:42,422: INFO  – This is mmm
+2013-02-06 00:39:42,438: WARN  – This is warning
+2013-02-06 00:39:42,438: ERROR – This error
+2013-02-06 00:39:42,438: DEBUG – this debug 
+2013-02-06 00:39:45,594: INFO  – This is mmm
+2013-02-06 00:39:45,594: WARN  – This is warning
+2013-02-06 00:39:45,594: ERROR – This error
+2013-02-06 00:39:45,594: DEBUG – this debug 
+2013-02-06 00:42:29,063: INFO  – This is mmm
+2013-02-06 00:42:29,078: WARN  – This is warning
+2013-02-06 00:42:29,078: ERROR – This error
+2013-02-06 00:42:29,078: DEBUG – this debug 
+2013-02-06 00:42:31,782: INFO  – This is mmm
+2013-02-06 00:42:31,782: WARN  – This is warning
+2013-02-06 00:42:31,782: ERROR – This error
+2013-02-06 00:42:31,782: DEBUG – this debug 
+2013-02-06 00:43:02,907: INFO  – This is mmm
+2013-02-06 00:43:02,907: WARN  – This is warning
+2013-02-06 00:43:02,907: ERROR – This error
+2013-02-06 00:43:02,907: DEBUG – this debug 
+2013-02-06 00:43:05,719: INFO  – This is mmm
+2013-02-06 00:43:05,719: WARN  – This is warning
+2013-02-06 00:43:05,719: ERROR – This error
+2013-02-06 00:43:05,719: DEBUG – this debug 
+2013-02-06 00:43:55,328: INFO  – This is mmm
+2013-02-06 00:43:55,328: WARN  – This is warning
+2013-02-06 00:43:55,328: ERROR – This error
+2013-02-06 00:43:55,328: DEBUG – this debug 
+2013-02-06 00:43:58,766: INFO  – This is mmm
+2013-02-06 00:43:58,766: WARN  – This is warning
+2013-02-06 00:43:58,766: ERROR – This error
+2013-02-06 00:43:58,766: DEBUG – this debug 
+2013-02-06 00:45:03,703: INFO  – This is mmm
+2013-02-06 00:45:03,719: WARN  – This is warning
+2013-02-06 00:45:03,719: ERROR – This error
+2013-02-06 00:45:03,719: DEBUG – this debug 
+2013-02-06 00:45:06,313: INFO  – This is mmm
+2013-02-06 00:45:06,313: WARN  – This is warning
+2013-02-06 00:45:06,313: ERROR – This error
+2013-02-06 00:45:06,313: DEBUG – this debug 
+2013-02-06 00:45:29,719: INFO  – This is mmm
+2013-02-06 00:45:29,735: WARN  – This is warning
+2013-02-06 00:45:29,735: ERROR – This error
+2013-02-06 00:45:29,735: DEBUG – this debug 
+2013-02-06 00:45:32,235: INFO  – This is mmm
+2013-02-06 00:45:32,235: WARN  – This is warning
+2013-02-06 00:45:32,235: ERROR – This error
+2013-02-06 00:45:32,235: DEBUG – this debug 
+2013-02-06 00:46:12,328: INFO  – This is mmm
+2013-02-06 00:46:12,328: WARN  – This is warning
+2013-02-06 00:46:12,328: ERROR – This error
+2013-02-06 00:46:12,344: DEBUG – this debug 
+2013-02-06 00:48:43,641: INFO  – This is mmm
+2013-02-06 00:48:43,641: WARN  – This is warning
+2013-02-06 00:48:43,641: ERROR – This error
+2013-02-06 00:48:43,641: DEBUG – this debug 
+2013-02-06 00:49:11,219: INFO  – This is mmm
+2013-02-06 00:49:11,219: WARN  – This is warning
+2013-02-06 00:49:11,219: ERROR – This error
+2013-02-06 00:49:11,219: DEBUG – this debug 
+2013-02-06 00:49:13,407: INFO  – This is mmm
+2013-02-06 00:49:13,407: WARN  – This is warning
+2013-02-06 00:49:13,407: ERROR – This error
+2013-02-06 00:49:13,407: DEBUG – this debug 
+2013-02-06 00:52:11,219: INFO  – This is mmm
+2013-02-06 00:52:11,219: WARN  – This is warning
+2013-02-06 00:52:11,219: ERROR – This error
+2013-02-06 00:52:11,219: DEBUG – this debug 
+2013-02-06 00:52:13,953: INFO  – This is mmm
+2013-02-06 00:52:13,953: WARN  – This is warning
+2013-02-06 00:52:13,953: ERROR – This error
+2013-02-06 00:52:13,953: DEBUG – this debug 
+2013-02-06 00:55:06,657: INFO  – This is mmm
+2013-02-06 00:55:06,672: WARN  – This is warning
+2013-02-06 00:55:06,672: ERROR – This error
+2013-02-06 00:55:06,672: DEBUG – this debug 
+2013-02-06 00:55:15,016: INFO  – This is mmm
+2013-02-06 00:55:15,016: WARN  – This is warning
+2013-02-06 00:55:15,016: ERROR – This error
+2013-02-06 00:55:15,016: DEBUG – this debug 
+2013-02-06 00:56:54,078: INFO  – This is mmm
+2013-02-06 00:56:54,094: WARN  – This is warning
+2013-02-06 00:56:54,094: ERROR – This error
+2013-02-06 00:56:54,094: DEBUG – this debug 
+2013-02-06 00:56:56,985: INFO  – This is mmm
+2013-02-06 00:56:56,985: WARN  – This is warning
+2013-02-06 00:56:56,985: ERROR – This error
+2013-02-06 00:56:56,985: DEBUG – this debug 
+2013-02-06 00:57:17,297: INFO  – This is mmm
+2013-02-06 00:57:17,297: WARN  – This is warning
+2013-02-06 00:57:17,297: ERROR – This error
+2013-02-06 00:57:17,297: DEBUG – this debug 
+2013-02-06 00:57:54,485: INFO  – This is mmm
+2013-02-06 00:57:54,485: WARN  – This is warning
+2013-02-06 00:57:54,485: ERROR – This error
+2013-02-06 00:57:54,485: DEBUG – this debug 
+2013-02-06 00:57:57,469: INFO  – This is mmm
+2013-02-06 00:57:57,469: WARN  – This is warning
+2013-02-06 00:57:57,469: ERROR – This error
+2013-02-06 00:57:57,469: DEBUG – this debug 
+2013-02-06 00:58:24,907: INFO  – This is mmm
+2013-02-06 00:58:24,907: WARN  – This is warning
+2013-02-06 00:58:24,907: ERROR – This error
+2013-02-06 00:58:24,907: DEBUG – this debug 
+2013-02-06 00:58:27,532: INFO  – This is mmm
+2013-02-06 00:58:27,532: WARN  – This is warning
+2013-02-06 00:58:27,532: ERROR – This error
+2013-02-06 00:58:27,532: DEBUG – this debug 
+2013-02-06 00:59:28,063: INFO  – This is mmm
+2013-02-06 00:59:28,063: WARN  – This is warning
+2013-02-06 00:59:28,063: ERROR – This error
+2013-02-06 00:59:28,063: DEBUG – this debug 
+2013-02-06 00:59:31,110: INFO  – This is mmm
+2013-02-06 00:59:31,110: WARN  – This is warning
+2013-02-06 00:59:31,110: ERROR – This error
+2013-02-06 00:59:31,110: DEBUG – this debug 
+2013-02-06 01:01:29,610: INFO  – This is mmm
+2013-02-06 01:01:29,610: WARN  – This is warning
+2013-02-06 01:01:29,610: ERROR – This error
+2013-02-06 01:01:29,610: DEBUG – this debug 
+2013-02-06 01:01:31,750: INFO  – This is mmm
+2013-02-06 01:01:31,750: WARN  – This is warning
+2013-02-06 01:01:31,750: ERROR – This error
+2013-02-06 01:01:31,750: DEBUG – this debug 
+2013-02-06 01:05:42,735: INFO  – This is mmm
+2013-02-06 01:05:42,750: WARN  – This is warning
+2013-02-06 01:05:42,750: ERROR – This error
+2013-02-06 01:05:42,750: DEBUG – this debug 
+2013-02-06 01:05:45,610: INFO  – This is mmm
+2013-02-06 01:05:45,610: WARN  – This is warning
+2013-02-06 01:05:45,610: ERROR – This error
+2013-02-06 01:05:45,610: DEBUG – this debug 
+2013-02-06 01:06:27,844: INFO  – This is mmm
+2013-02-06 01:06:27,860: WARN  – This is warning
+2013-02-06 01:06:27,860: ERROR – This error
+2013-02-06 01:06:27,860: DEBUG – this debug 
+2013-02-06 01:06:30,297: INFO  – This is mmm
+2013-02-06 01:06:30,297: WARN  – This is warning
+2013-02-06 01:06:30,297: ERROR – This error
+2013-02-06 01:06:30,297: DEBUG – this debug 
+2013-02-06 01:10:11,157: INFO  – This is mmm
+2013-02-06 01:10:11,172: WARN  – This is warning
+2013-02-06 01:10:11,172: ERROR – This error
+2013-02-06 01:10:11,172: DEBUG – this debug 
+2013-02-06 01:10:13,907: INFO  – This is mmm
+2013-02-06 01:10:13,907: WARN  – This is warning
+2013-02-06 01:10:13,907: ERROR – This error
+2013-02-06 01:10:13,907: DEBUG – this debug 
+2013-02-06 01:11:52,703: INFO  – This is mmm
+2013-02-06 01:11:52,703: WARN  – This is warning
+2013-02-06 01:11:52,703: ERROR – This error
+2013-02-06 01:11:52,703: DEBUG – this debug 
+2013-02-06 01:14:38,453: INFO  – This is mmm
+2013-02-06 01:14:38,469: WARN  – This is warning
+2013-02-06 01:14:38,469: ERROR – This error
+2013-02-06 01:14:38,469: DEBUG – this debug 
+2013-02-06 01:14:41,235: INFO  – This is mmm
+2013-02-06 01:14:41,235: WARN  – This is warning
+2013-02-06 01:14:41,235: ERROR – This error
+2013-02-06 01:14:41,235: DEBUG – this debug 
+2013-02-06 01:22:27,563: INFO  – This is mmm
+2013-02-06 01:22:27,578: WARN  – This is warning
+2013-02-06 01:22:27,578: ERROR – This error
+2013-02-06 01:22:27,578: DEBUG – this debug 
+2013-02-06 01:22:56,407: INFO  – This is mmm
+2013-02-06 01:22:56,407: WARN  – This is warning
+2013-02-06 01:22:56,407: ERROR – This error
+2013-02-06 01:22:56,407: DEBUG – this debug 
+2013-02-06 01:43:08,391: INFO  – This is mmm
+2013-02-06 01:43:08,407: WARN  – This is warning
+2013-02-06 01:43:08,407: ERROR – This error
+2013-02-06 01:43:08,407: DEBUG – this debug 
+2013-02-06 01:43:10,938: INFO  – This is mmm
+2013-02-06 01:43:10,938: WARN  – This is warning
+2013-02-06 01:43:10,938: ERROR – This error
+2013-02-06 01:43:10,938: DEBUG – this debug 
+2013-02-06 02:03:11,047: INFO  – This is mmm
+2013-02-06 02:03:11,047: WARN  – This is warning
+2013-02-06 02:03:11,047: ERROR – This error
+2013-02-06 02:03:11,047: DEBUG – this debug 
+2013-02-06 02:09:00,766: INFO  – This is mmm
+2013-02-06 02:09:00,766: WARN  – This is warning
+2013-02-06 02:09:00,766: ERROR – This error
+2013-02-06 02:09:00,766: DEBUG – this debug 
+2013-02-06 02:09:28,453: INFO  – This is mmm
+2013-02-06 02:09:28,453: WARN  – This is warning
+2013-02-06 02:09:28,453: ERROR – This error
+2013-02-06 02:09:28,453: DEBUG – this debug 
+2013-02-06 02:09:31,110: INFO  – This is mmm
+2013-02-06 02:09:31,110: WARN  – This is warning
+2013-02-06 02:09:31,110: ERROR – This error
+2013-02-06 02:09:31,110: DEBUG – this debug 
+2013-02-06 02:12:31,625: INFO  – This is mmm
+2013-02-06 02:12:31,625: WARN  – This is warning
+2013-02-06 02:12:31,625: ERROR – This error
+2013-02-06 02:12:31,625: DEBUG – this debug 
+2013-02-06 02:12:36,235: INFO  – This is mmm
+2013-02-06 02:12:36,235: WARN  – This is warning
+2013-02-06 02:12:36,235: ERROR – This error
+2013-02-06 02:12:36,235: DEBUG – this debug 
+2013-02-06 02:16:55,875: INFO  – This is mmm
+2013-02-06 02:16:55,891: WARN  – This is warning
+2013-02-06 02:16:55,891: ERROR – This error
+2013-02-06 02:16:55,891: DEBUG – this debug 
+2013-02-06 02:16:58,610: INFO  – This is mmm
+2013-02-06 02:16:58,610: WARN  – This is warning
+2013-02-06 02:16:58,610: ERROR – This error
+2013-02-06 02:16:58,610: DEBUG – this debug 
+2013-02-06 02:18:01,875: INFO  – This is mmm
+2013-02-06 02:18:01,891: WARN  – This is warning
+2013-02-06 02:18:01,891: ERROR – This error
+2013-02-06 02:18:01,891: DEBUG – this debug 
+2013-02-06 02:18:04,719: INFO  – This is mmm
+2013-02-06 02:18:04,719: WARN  – This is warning
+2013-02-06 02:18:04,719: ERROR – This error
+2013-02-06 02:18:04,719: DEBUG – this debug 
+2013-02-06 02:43:42,328: INFO  – This is mmm
+2013-02-06 02:43:42,344: WARN  – This is warning
+2013-02-06 02:43:42,344: ERROR – This error
+2013-02-06 02:43:42,344: DEBUG – this debug 
+2013-02-06 02:43:45,516: INFO  – This is mmm
+2013-02-06 02:43:45,516: WARN  – This is warning
+2013-02-06 02:43:45,516: ERROR – This error
+2013-02-06 02:43:45,516: DEBUG – this debug 
+2013-02-06 02:44:04,188: INFO  – This is mmm
+2013-02-06 02:44:04,188: WARN  – This is warning
+2013-02-06 02:44:04,188: ERROR – This error
+2013-02-06 02:44:04,188: DEBUG – this debug 
+2013-02-06 02:44:21,469: INFO  – This is mmm
+2013-02-06 02:44:21,469: WARN  – This is warning
+2013-02-06 02:44:21,469: ERROR – This error
+2013-02-06 02:44:21,469: DEBUG – this debug 
+2013-02-06 02:44:24,657: INFO  – This is mmm
+2013-02-06 02:44:24,657: WARN  – This is warning
+2013-02-06 02:44:24,657: ERROR – This error
+2013-02-06 02:44:24,657: DEBUG – this debug 
+2013-02-06 02:44:37,266: INFO  – This is mmm
+2013-02-06 02:44:37,266: WARN  – This is warning
+2013-02-06 02:44:37,266: ERROR – This error
+2013-02-06 02:44:37,266: DEBUG – this debug 
+2013-02-06 02:45:34,782: INFO  – This is mmm
+2013-02-06 02:45:34,797: WARN  – This is warning
+2013-02-06 02:45:34,797: ERROR – This error
+2013-02-06 02:45:34,797: DEBUG – this debug 
+2013-02-06 02:45:37,219: INFO  – This is mmm
+2013-02-06 02:45:37,219: WARN  – This is warning
+2013-02-06 02:45:37,219: ERROR – This error
+2013-02-06 02:45:37,219: DEBUG – this debug 
+2013-02-06 02:46:10,297: INFO  – This is mmm
+2013-02-06 02:46:10,313: WARN  – This is warning
+2013-02-06 02:46:10,313: ERROR – This error
+2013-02-06 02:46:10,313: DEBUG – this debug 
+2013-02-06 21:31:23,718: ERROR – Error La conversión especificada no es válida.Metodo :ListarReferenciaLaboral  CodSolicitud :5
+2013-02-06 21:33:47,125: ERROR – Error La conversión especificada no es válida.Metodo :ListarReferenciaLaboral  CodSolicitud :5
+2013-02-06 21:39:28,812: ERROR – Error La conversión especificada no es válida.Metodo :ListarReferenciaBancaria  Solicitud: 5
+2013-02-06 21:39:28,875: ERROR – Error La conversión especificada no es válida.Metodo :ListarInformacionPatrimonialPos  Solicitud :5
+2013-02-06 21:39:28,921: ERROR – Error La conversión especificada no es válida.Metodo :ListarInformacionPatrimonialNeg  Solicitud :5
+2013-02-06 21:40:20,375: ERROR – Error La conversión especificada no es válida.Metodo :ListarReferenciaLaboral  CodSolicitud :5
+2013-02-06 21:40:20,437: ERROR – Error La conversión especificada no es válida.Metodo :ListarReferenciaBancaria  Solicitud: 5
+2013-02-06 21:40:20,484: ERROR – Error La conversión especificada no es válida.Metodo :ListarInformacionPatrimonialPos  Solicitud :5
+2013-02-06 21:40:20,546: ERROR – Error La conversión especificada no es válida.Metodo :ListarInformacionPatrimonialNeg  Solicitud :5
+2013-02-06 22:01:25,796: ERROR – Error La conversión especificada no es válida.Metodo :ListarReferenciaLaboral  CodSolicitud :5
+2013-02-06 22:01:25,843: ERROR – Error La conversión especificada no es válida.Metodo :ListarReferenciaBancaria  Solicitud: 5
+2013-02-06 22:01:25,906: ERROR – Error La conversión especificada no es válida.Metodo :ListarInformacionPatrimonialPos  Solicitud :5
+2013-02-06 22:01:25,953: ERROR – Error La conversión especificada no es válida.Metodo :ListarInformacionPatrimonialNeg  Solicitud :5
+2013-02-06 22:13:05,265: ERROR – Error La conversión especificada no es válida.Metodo :ListarReferenciaBancaria  Solicitud: 5
+2013-02-06 22:33:03,125: ERROR – Error La cadena de entrada no tiene el formato correcto.Metodo :Grabar
+2013-02-06 22:45:11,078: ERROR – Error Subproceso anulado.Metodo :Grabar
+2013-02-06 22:57:03,484: ERROR – Error Procedure or function 'sp_MantenimientoSolicitud' expects parameter '@CODIGO', which was not supplied.Metodo :MantenimientoSolicitudEstado Cod. Solicitud : 3Estado:ELIMINADO
+2013-02-06 22:57:03,531: ERROR – Error Subproceso anulado.Metodo :Grabar
+2013-02-06 22:58:05,437: ERROR – Error Procedure or function 'sp_MantenimientoSolicitud' expects parameter '@CODIGO', which was not supplied.Metodo :MantenimientoSolicitudEstado Cod. Solicitud : 4Estado:ELIMINADO
+2013-02-06 22:58:05,515: ERROR – Error Subproceso anulado.Metodo :Grabar
+2013-02-06 22:59:22,968: ERROR – Error Subproceso anulado.Metodo :Grabar
+2013-02-07 00:23:34,812: ERROR – Error Subproceso anulado.Metodo :Grabar
+2013-02-07 00:29:54,875: ERROR – Error Subproceso anulado.Metodo :Grabar
+2013-02-07 00:34:44,687: ERROR – Error Subproceso anulado.Metodo :Grabar
+2013-02-07 00:38:45,890: ERROR – Error Subproceso anulado.Metodo :Grabar
+2013-02-07 00:42:47,796: ERROR – Error La cadena de entrada no tiene el formato correcto.Metodo :Grabar
+2013-02-07 00:45:21,187: ERROR – Error La cadena de entrada no tiene el formato correcto.Metodo :Grabar
+2013-02-07 00:46:18,171: ERROR – Error La cadena de entrada no tiene el formato correcto.Metodo :Grabar
+2013-02-07 00:46:57,171: ERROR – Error La cadena de entrada no tiene el formato correcto.Metodo :Grabar
+2013-02-07 00:47:03,406: ERROR – Error La cadena de entrada no tiene el formato correcto.Metodo :Grabar
+2013-02-07 00:47:27,406: ERROR – Error La cadena de entrada no tiene el formato correcto.Metodo :Grabar
+2013-02-07 00:50:20,578: ERROR – Error No se puede convertir un objeto DBNull en otros tipos.Metodo :MantenimientoReferenciaLaboral  Flag :2
+2013-02-07 00:50:21,562: ERROR – Error No se puede convertir un objeto DBNull en otros tipos.Metodo :MantenimientoReferenciaBancaria  Flag :2
+2013-02-07 00:50:23,125: ERROR – Error No se puede convertir un objeto DBNull en otros tipos.Metodo :MantenimientoInformacionPatrimonial    Flag :2
+2013-02-07 00:50:23,921: ERROR – Error No se puede convertir un objeto DBNull en otros tipos.Metodo :MantenimientoInformacionPatrimonialPos    Flag :2
+2013-02-07 00:50:24,656: ERROR – Error Subproceso anulado.Metodo :Grabar
+2013-02-07 01:10:00,687: ERROR – Error No se puede convertir un objeto DBNull en otros tipos.Metodo :MantenimientoReferenciaLaboral  Flag :2
+2013-02-07 01:10:01,968: ERROR – Error No se puede convertir un objeto DBNull en otros tipos.Metodo :MantenimientoReferenciaBancaria  Flag :2
+2013-02-07 01:10:03,562: ERROR – Error No se puede convertir un objeto DBNull en otros tipos.Metodo :MantenimientoInformacionPatrimonial    Flag :2
+2013-02-07 01:10:04,250: ERROR – Error No se puede convertir un objeto DBNull en otros tipos.Metodo :MantenimientoInformacionPatrimonialPos    Flag :2
+2013-02-07 01:10:05,000: ERROR – Error Subproceso anulado.Metodo :Grabar
+2013-02-07 01:21:51,375: ERROR – Error No se puede convertir un objeto DBNull en otros tipos.Metodo :MantenimientoReferenciaLaboral  Flag :2
+2013-02-07 01:22:19,546: ERROR – Error No se puede convertir un objeto DBNull en otros tipos.Metodo :MantenimientoReferenciaBancaria  Flag :2
+2013-02-07 01:22:19,546: ERROR – Error No se puede convertir un objeto DBNull en otros tipos.Metodo :MantenimientoInformacionPatrimonial    Flag :2
+2013-02-07 01:22:19,562: ERROR – Error No se puede convertir un objeto DBNull en otros tipos.Metodo :MantenimientoInformacionPatrimonialPos    Flag :2
+2013-02-07 01:22:19,593: ERROR – Error Subproceso anulado.Metodo :Grabar
+2013-02-07 01:24:44,812: ERROR – Error No se puede convertir un objeto DBNull en otros tipos.Metodo :MantenimientoReferenciaLaboral  Flag :2
+2013-02-07 01:24:59,859: ERROR – Error No se puede convertir un objeto DBNull en otros tipos.Metodo :MantenimientoReferenciaBancaria  Flag :2
+2013-02-07 01:24:59,859: ERROR – Error No se puede convertir un objeto DBNull en otros tipos.Metodo :MantenimientoInformacionPatrimonial    Flag :2
+2013-02-07 01:24:59,859: ERROR – Error No se puede convertir un objeto DBNull en otros tipos.Metodo :MantenimientoInformacionPatrimonialPos    Flag :2
+2013-02-07 01:24:59,875: ERROR – Error Subproceso anulado.Metodo :Grabar
+2013-02-07 01:26:27,093: ERROR – Error No se puede convertir un objeto DBNull en otros tipos.Metodo :MantenimientoReferenciaLaboral  Flag :2
+2013-02-07 01:26:27,156: ERROR – Error No se puede convertir un objeto DBNull en otros tipos.Metodo :MantenimientoReferenciaBancaria  Flag :2
+2013-02-07 01:26:39,250: ERROR – Error No se puede convertir un objeto DBNull en otros tipos.Metodo :MantenimientoInformacionPatrimonial    Flag :2
+2013-02-07 01:26:42,906: ERROR – Error No se puede convertir un objeto DBNull en otros tipos.Metodo :MantenimientoInformacionPatrimonialPos    Flag :2
+2013-02-07 01:26:43,609: ERROR – Error Subproceso anulado.Metodo :Grabar
+2013-02-07 01:28:31,562: ERROR – Error No se puede convertir un objeto DBNull en otros tipos.Metodo :MantenimientoReferenciaLaboral  Flag :2
+2013-02-07 01:28:31,609: ERROR – Error No se puede convertir un objeto DBNull en otros tipos.Metodo :MantenimientoReferenciaBancaria  Flag :2
+2013-02-07 01:28:44,765: ERROR – Error No se puede convertir un objeto DBNull en otros tipos.Metodo :MantenimientoInformacionPatrimonial    Flag :2
+2013-02-07 01:28:44,765: ERROR – Error No se puede convertir un objeto DBNull en otros tipos.Metodo :MantenimientoInformacionPatrimonialPos    Flag :2
+2013-02-07 01:28:44,781: ERROR – Error Subproceso anulado.Metodo :Grabar
+2013-02-07 01:30:32,593: ERROR – Error No se puede convertir un objeto DBNull en otros tipos.Metodo :MantenimientoReferenciaLaboral  Flag :2
+2013-02-07 01:30:33,703: ERROR – Error No se puede convertir un objeto DBNull en otros tipos.Metodo :MantenimientoReferenciaBancaria  Flag :2
+2013-02-07 01:30:43,828: ERROR – Error No se puede convertir un objeto DBNull en otros tipos.Metodo :MantenimientoInformacionPatrimonial    Flag :2
+2013-02-07 01:30:44,484: ERROR – Error No se puede convertir un objeto DBNull en otros tipos.Metodo :MantenimientoInformacionPatrimonialPos    Flag :2
+2013-02-07 01:30:45,171: ERROR – Error Subproceso anulado.Metodo :Grabar
+2013-02-07 01:42:51,484: ERROR – Error Subproceso anulado.Metodo :Grabar
+2013-02-07 01:44:09,984: ERROR – Error Subproceso anulado.Metodo :Grabar
+2013-02-09 20:00:38,905: ERROR – Error Procedure or function 'sp_ListarSolicitudxEntrevista' expects parameter '@fechaFin', which was not supplied.Metodo :ListarSolicitudxEntrevista  Nro de Solicitud: 0Candidato :0sFechaInicio:0FechaFin:0
+2013-02-09 20:02:06,733: ERROR – Error NOMBREMetodo :ListarSolicitudxEntrevista  Nro de Solicitud: 0Candidato :0sFechaInicio:0FechaFin:0
+2013-02-09 20:02:51,358: ERROR – Error Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.Metodo :ListarSolicitudxEntrevista  Nro de Solicitud: 0Candidato :0sFechaInicio:0FechaFin:0
+2013-02-09 20:06:09,796: ERROR – Error No se puede convertir un objeto de tipo 'System.Int32' al tipo 'System.String'.Metodo :ListarSolicitudxEntrevista  Nro de Solicitud: 0Candidato :0sFechaInicio:0FechaFin:0
+2013-02-09 20:07:46,343: ERROR – Error No se puede convertir un objeto de tipo 'System.Int32' al tipo 'System.String'.Metodo :ListarSolicitudxEntrevista  Nro de Solicitud: 0Candidato :0sFechaInicio:0FechaFin:0
+2013-02-09 20:35:25,655: ERROR – Error Conversion failed when converting date and/or time from character string.Metodo :ListarSolicitudxEntrevista  Nro de Solicitud: 0Candidato :0sFechaInicio:0FechaFin:0
+2013-02-09 20:36:00,218: ERROR – Error Conversion failed when converting date and/or time from character string.Metodo :ListarSolicitudxEntrevista  Nro de Solicitud: 0Candidato :0sFechaInicio:0FechaFin:0
+2013-02-09 20:37:43,561: ERROR – Error Conversion failed when converting date and/or time from character string.Metodo :ListarSolicitudxEntrevista  Nro de Solicitud: 0Candidato :0sFechaInicio:0FechaFin:0
+2013-02-09 20:38:32,718: ERROR – Error Conversion failed when converting date and/or time from character string.Metodo :ListarSolicitudxEntrevista  Nro de Solicitud: 0Candidato :0sFechaInicio:0FechaFin:0
+2013-02-09 20:40:38,671: ERROR – Error Conversion failed when converting date and/or time from character string.Metodo :ListarSolicitudxEntrevista  Nro de Solicitud: 0Candidato :0sFechaInicio:0FechaFin:0
+2013-02-09 20:56:20,514: ERROR – Error Conversion failed when converting date and/or time from character string.Metodo :ListarSolicitudxEntrevista  Nro de Solicitud: 0Candidato :0sFechaInicio:0FechaFin:0
+2013-02-09 20:56:56,343: ERROR – Error Conversion failed when converting date and/or time from character string.Metodo :ListarSolicitudxEntrevista  Nro de Solicitud: 0Candidato :0sFechaInicio:0FechaFin:0
+2013-02-09 21:01:24,264: ERROR – Error Error converting data type varchar to date.Metodo :ListarSolicitudxEntrevista  Nro de Solicitud: 0Candidato :0sFechaInicio:0FechaFin:0
+2013-02-09 21:03:11,202: ERROR – Error Error converting data type varchar to date.Metodo :ListarSolicitudxEntrevista  Nro de Solicitud: 0Candidato :0sFechaInicio:0FechaFin:0
+2013-02-09 21:03:53,233: ERROR – Error Error converting data type varchar to date.Metodo :ListarSolicitudxEntrevista  Nro de Solicitud: 0Candidato :0sFechaInicio:0FechaFin:0
+2013-02-09 21:07:39,796: ERROR – Error Error converting data type varchar to date.Metodo :ListarSolicitudxEntrevista  Nro de Solicitud: 0Candidato :0sFechaInicio:0FechaFin:0
+2013-02-09 21:08:45,327: ERROR – Error Error converting data type varchar to date.Metodo :ListarSolicitudxEntrevista  Nro de Solicitud: 0Candidato :0sFechaInicio:0FechaFin:0
+2013-02-09 21:12:39,952: ERROR – Error Procedure or function 'sp_ListarSolicitudxEntrevista' expects parameter '@fechaInicio', which was not supplied.Metodo :ListarSolicitudxEntrevista  Nro de Solicitud: 0Candidato :0sFechaInicio:FechaFin:0
+2013-02-09 21:15:20,858: ERROR – Error Procedure or function 'sp_ListarSolicitudxEntrevista' expects parameter '@fechaInicio', which was not supplied.Metodo :ListarSolicitudxEntrevista  Nro de Solicitud: 0Candidato :0sFechaInicio:FechaFin:0
+2013-02-10 12:17:41,421: ERROR – Error Procedure or function 'sp_ListarSolicitudxEntrevista' expects parameter '@fechaInicio', which was not supplied.Metodo :ListarSolicitudxEntrevista  Nro de Solicitud: 0Candidato :0sFechaInicio:FechaFin:
+2013-02-10 12:18:55,062: ERROR – Error Procedure or function 'sp_ListarSolicitudxEntrevista' expects parameter '@fechaInicio', which was not supplied.Metodo :ListarSolicitudxEntrevista  Nro de Solicitud: 0Candidato :0sFechaInicio:FechaFin:
+2013-02-10 16:19:14,000: ERROR – Error No se puede convertir un objeto de tipo 'System.Int32' al tipo 'System.String'.Metodo :ListarSolicitudxEntrevista
+2013-02-10 16:22:11,062: ERROR – Error No se puede convertir un objeto de tipo 'System.Int32' al tipo 'System.String'.Metodo :ListarSolicitudxEntrevista
+2013-02-10 16:23:04,265: ERROR – Error No se puede convertir un objeto de tipo 'System.Int32' al tipo 'System.String'.Metodo :ListarSolicitudxEntrevista
+2013-02-10 17:03:23,015: ERROR – Error Procedure or function 'sp_MantenimientoSolicitud' expects parameter '@CODIGO', which was not supplied.Metodo :MantenimientoEntrevista    Controlador :1
+2013-02-10 17:35:58,281: ERROR – Error Los datos tienen valor Null. No se puede llamar a este método o propiedad con valores Null.Metodo :ListarSolicitudxEntrevista  Nro de Solicitud: 0Candidato :0sFechaInicio:FechaFin:
+2013-02-10 20:29:53,224: ERROR – Error Procedure or function 'sp_ListarSolicitudxEntrevista' expects parameter '@estado', which was not supplied.Metodo :ListarSolicitudxEntrevista  Nro de Solicitud: 14Candidato :0sFechaInicio:FechaFin:
+2013-02-10 23:46:59,630: ERROR – Error Procedure or function 'sp_ListarSolicitudxEntrevista' expects parameter '@estado', which was not supplied.Metodo :ListarSolicitudxEntrevista  Nro de Solicitud: 12Candidato :0sFechaInicio:FechaFin:
+2013-02-10 23:48:02,364: ERROR – Error Procedure or function 'sp_ListarSolicitudxEntrevista' expects parameter '@estado', which was not supplied.Metodo :ListarSolicitudxEntrevista  Nro de Solicitud: 12Candidato :0sFechaInicio:FechaFin:
+2013-02-11 02:10:45,078: ERROR – Error Error al convertir el valor del parámetro de String a Decimal.Metodo :MantenimientoInformacionPatrimonial    Flag :1
+2013-02-11 02:10:47,015: ERROR – Error Error al convertir el valor del parámetro de String a Decimal.Metodo :MantenimientoInformacionPatrimonialPos    Flag :1
+2013-02-11 02:10:47,125: ERROR – Error Subproceso anulado.Metodo :Grabar
+2013-02-11 02:25:24,484: ERROR – Error Error al convertir el valor del parámetro de String a Decimal.Metodo :MantenimientoInformacionPatrimonial    Flag :1
+2013-02-11 02:25:25,422: ERROR – Error Error al convertir el valor del parámetro de String a Decimal.Metodo :MantenimientoInformacionPatrimonialPos    Flag :1
+2013-02-11 02:25:25,469: ERROR – Error Subproceso anulado.Metodo :Grabar
+2013-02-11 02:33:13,000: ERROR – Error Subproceso anulado.Metodo :Grabar

@@ -1,0 +1,154 @@
+C:\Documents and Settings\Erika XP Sp3\Mis documentos\Visual Studio 2008\Projects\SOAT\Common\Common\bin\Debug\Common.dll
+C:\Documents and Settings\Erika XP Sp3\Mis documentos\Visual Studio 2008\Projects\SOAT\Common\Common\bin\Debug\Common.pdb
+C:\Documents and Settings\Erika XP Sp3\Mis documentos\Visual Studio 2008\Projects\SOAT\Common\Common\bin\Debug\EnEntidad.dll
+C:\Documents and Settings\Erika XP Sp3\Mis documentos\Visual Studio 2008\Projects\SOAT\Common\Common\bin\Debug\EnEntidad.pdb
+C:\Documents and Settings\Erika XP Sp3\Mis documentos\Visual Studio 2008\Projects\SOAT\Common\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Erika XP Sp3\Mis documentos\Visual Studio 2008\Projects\SOAT\Common\Common\obj\Debug\Common.dll
+C:\Documents and Settings\Erika XP Sp3\Mis documentos\Visual Studio 2008\Projects\SOAT\Common\Common\obj\Debug\Common.pdb
+C:\SOAT_v2\Common\Common\bin\Debug\Common.dll
+C:\SOAT_v2\Common\Common\bin\Debug\Common.pdb
+C:\SOAT_v2\Common\Common\bin\Debug\EnEntidad.dll
+C:\SOAT_v2\Common\Common\bin\Debug\EnEntidad.pdb
+C:\SOAT_v2\Common\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\SOAT_v2\Common\Common\obj\Debug\Common.dll
+C:\SOAT_v2\Common\Common\obj\Debug\Common.pdb
+D:\SOAT_v2\Common\Common\bin\Debug\Common.dll
+D:\SOAT_v2\Common\Common\bin\Debug\Common.pdb
+D:\SOAT_v2\Common\Common\bin\Debug\EnEntidad.dll
+D:\SOAT_v2\Common\Common\bin\Debug\EnEntidad.pdb
+D:\SOAT_v2\Common\Common\obj\Debug\ResolveAssemblyReference.cache
+D:\SOAT_v2\Common\Common\obj\Debug\Common.dll
+D:\SOAT_v2\Common\Common\obj\Debug\Common.pdb
+D:\PracTiSOAT_peru.com\SOAT_v2\Common\Common\bin\Debug\Common.dll
+D:\PracTiSOAT_peru.com\SOAT_v2\Common\Common\bin\Debug\Common.pdb
+D:\PracTiSOAT_peru.com\SOAT_v2\Common\Common\bin\Debug\EnEntidad.dll
+D:\PracTiSOAT_peru.com\SOAT_v2\Common\Common\bin\Debug\EnEntidad.pdb
+D:\PracTiSOAT_peru.com\SOAT_v2\Common\Common\obj\Debug\ResolveAssemblyReference.cache
+D:\PracTiSOAT_peru.com\SOAT_v2\Common\Common\obj\Debug\Common.dll
+D:\PracTiSOAT_peru.com\SOAT_v2\Common\Common\obj\Debug\Common.pdb
+C:\PracTiSOAT_peru.com\SOAT_v2\Common\Common\bin\Debug\Common.dll
+C:\PracTiSOAT_peru.com\SOAT_v2\Common\Common\bin\Debug\Common.pdb
+C:\PracTiSOAT_peru.com\SOAT_v2\Common\Common\bin\Debug\EnEntidad.dll
+C:\PracTiSOAT_peru.com\SOAT_v2\Common\Common\bin\Debug\EnEntidad.pdb
+C:\PracTiSOAT_peru.com\SOAT_v2\Common\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\PracTiSOAT_peru.com\SOAT_v2\Common\Common\obj\Debug\Common.dll
+C:\PracTiSOAT_peru.com\SOAT_v2\Common\Common\obj\Debug\Common.pdb
+D:\fwdsoatrimac\SOAT_v3\Common\Common\bin\Debug\Common.dll
+D:\fwdsoatrimac\SOAT_v3\Common\Common\bin\Debug\Common.pdb
+D:\fwdsoatrimac\SOAT_v3\Common\Common\bin\Debug\EnEntidad.dll
+D:\fwdsoatrimac\SOAT_v3\Common\Common\bin\Debug\EnEntidad.pdb
+D:\fwdsoatrimac\SOAT_v3\Common\Common\obj\Debug\ResolveAssemblyReference.cache
+D:\fwdsoatrimac\SOAT_v3\Common\Common\obj\Debug\Common.dll
+D:\fwdsoatrimac\SOAT_v3\Common\Common\obj\Debug\Common.pdb
+C:\PracTiSOAT_peru.com\SOAT_v4\Common\Common\bin\Debug\Common.dll
+C:\PracTiSOAT_peru.com\SOAT_v4\Common\Common\bin\Debug\Common.pdb
+C:\PracTiSOAT_peru.com\SOAT_v4\Common\Common\bin\Debug\EnEntidad.dll
+C:\PracTiSOAT_peru.com\SOAT_v4\Common\Common\bin\Debug\EnEntidad.pdb
+C:\PracTiSOAT_peru.com\SOAT_v4\Common\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\PracTiSOAT_peru.com\SOAT_v4\Common\Common\obj\Debug\Common.dll
+C:\PracTiSOAT_peru.com\SOAT_v4\Common\Common\obj\Debug\Common.pdb
+C:\PracTiSOAT_peru.com\SOAT_v6\Common\Common\bin\Debug\Common.dll
+C:\PracTiSOAT_peru.com\SOAT_v6\Common\Common\bin\Debug\Common.pdb
+C:\PracTiSOAT_peru.com\SOAT_v6\Common\Common\bin\Debug\EnEntidad.dll
+C:\PracTiSOAT_peru.com\SOAT_v6\Common\Common\bin\Debug\EnEntidad.pdb
+C:\PracTiSOAT_peru.com\SOAT_v6\Common\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\PracTiSOAT_peru.com\SOAT_v6\Common\Common\obj\Debug\Common.dll
+C:\PracTiSOAT_peru.com\SOAT_v6\Common\Common\obj\Debug\Common.pdb
+C:\PracTiSOAT_peru.com\SOAT_v7\Common\Common\bin\Debug\Common.dll
+C:\PracTiSOAT_peru.com\SOAT_v7\Common\Common\bin\Debug\Common.pdb
+C:\PracTiSOAT_peru.com\SOAT_v7\Common\Common\bin\Debug\EnEntidad.dll
+C:\PracTiSOAT_peru.com\SOAT_v7\Common\Common\bin\Debug\EnEntidad.pdb
+C:\PracTiSOAT_peru.com\SOAT_v7\Common\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\PracTiSOAT_peru.com\SOAT_v7\Common\Common\obj\Debug\Common.dll
+C:\PracTiSOAT_peru.com\SOAT_v7\Common\Common\obj\Debug\Common.pdb
+C:\PracTiSOAT_peru.com\SOAT_v9\Common\Common\bin\Debug\Common.dll
+C:\PracTiSOAT_peru.com\SOAT_v9\Common\Common\bin\Debug\Common.pdb
+C:\PracTiSOAT_peru.com\SOAT_v9\Common\Common\bin\Debug\EnEntidad.dll
+C:\PracTiSOAT_peru.com\SOAT_v9\Common\Common\bin\Debug\EnEntidad.pdb
+C:\PracTiSOAT_peru.com\SOAT_v9\Common\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\PracTiSOAT_peru.com\SOAT_v9\Common\Common\obj\Debug\Common.dll
+C:\PracTiSOAT_peru.com\SOAT_v9\Common\Common\obj\Debug\Common.pdb
+C:\PracTiSOAT_peru.com\SOAT_v10\Common\Common\bin\Debug\Common.dll
+C:\PracTiSOAT_peru.com\SOAT_v10\Common\Common\bin\Debug\Common.pdb
+C:\PracTiSOAT_peru.com\SOAT_v10\Common\Common\bin\Debug\EnEntidad.dll
+C:\PracTiSOAT_peru.com\SOAT_v10\Common\Common\bin\Debug\EnEntidad.pdb
+C:\PracTiSOAT_peru.com\SOAT_v10\Common\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\PracTiSOAT_peru.com\SOAT_v10\Common\Common\obj\Debug\Common.dll
+C:\PracTiSOAT_peru.com\SOAT_v10\Common\Common\obj\Debug\Common.pdb
+C:\PracTiSOAT_peru.com\SOAT_v11\Common\Common\bin\Debug\Common.dll
+C:\PracTiSOAT_peru.com\SOAT_v11\Common\Common\bin\Debug\Common.pdb
+C:\PracTiSOAT_peru.com\SOAT_v11\Common\Common\bin\Debug\EnEntidad.dll
+C:\PracTiSOAT_peru.com\SOAT_v11\Common\Common\bin\Debug\EnEntidad.pdb
+C:\PracTiSOAT_peru.com\SOAT_v11\Common\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\PracTiSOAT_peru.com\SOAT_v11\Common\Common\obj\Debug\Common.dll
+C:\PracTiSOAT_peru.com\SOAT_v11\Common\Common\obj\Debug\Common.pdb
+C:\PracTiSOAT_peru.com\SOAT_v13\Common\Common\bin\Debug\Common.dll
+C:\PracTiSOAT_peru.com\SOAT_v13\Common\Common\bin\Debug\Common.pdb
+C:\PracTiSOAT_peru.com\SOAT_v13\Common\Common\bin\Debug\EnEntidad.dll
+C:\PracTiSOAT_peru.com\SOAT_v13\Common\Common\bin\Debug\EnEntidad.pdb
+C:\PracTiSOAT_peru.com\SOAT_v13\Common\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\PracTiSOAT_peru.com\SOAT_v13\Common\Common\obj\Debug\Common.dll
+C:\PracTiSOAT_peru.com\SOAT_v13\Common\Common\obj\Debug\Common.pdb
+C:\HABLA_CLARO\SOAT_v13\Common\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\HABLA_CLARO\SOAT_v13\Common\Common\obj\Debug\Common.pdb
+C:\HABLA_CLARO\SOAT_v13\Common\Common\bin\Debug\Common.dll
+C:\HABLA_CLARO\SOAT_v13\Common\Common\bin\Debug\Common.pdb
+C:\HABLA_CLARO\SOAT_v13\Common\Common\bin\Debug\EnEntidad.dll
+C:\HABLA_CLARO\SOAT_v13\Common\Common\bin\Debug\EnEntidad.pdb
+C:\HABLA_CLARO\SOAT_v13\Common\Common\obj\Debug\Common.dll
+C:\AUNTPOISON\HABLA_CLARO\HABLACLARO_v1\Common\Common\bin\Debug\Common.dll
+C:\AUNTPOISON\HABLA_CLARO\HABLACLARO_v1\Common\Common\bin\Debug\Common.pdb
+C:\AUNTPOISON\HABLA_CLARO\HABLACLARO_v1\Common\Common\bin\Debug\EnEntidad.dll
+C:\AUNTPOISON\HABLA_CLARO\HABLACLARO_v1\Common\Common\bin\Debug\EnEntidad.pdb
+C:\AUNTPOISON\HABLA_CLARO\HABLACLARO_v1\Common\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\AUNTPOISON\HABLA_CLARO\HABLACLARO_v1\Common\Common\obj\Debug\Common.dll
+C:\AUNTPOISON\HABLA_CLARO\HABLACLARO_v1\Common\Common\obj\Debug\Common.pdb
+C:\AUNTPOISON\HABLA_CLARO\HABLACLARO_v2\Common\Common\bin\Debug\Common.dll
+C:\AUNTPOISON\HABLA_CLARO\HABLACLARO_v2\Common\Common\bin\Debug\Common.pdb
+C:\AUNTPOISON\HABLA_CLARO\HABLACLARO_v2\Common\Common\bin\Debug\EnEntidad.dll
+C:\AUNTPOISON\HABLA_CLARO\HABLACLARO_v2\Common\Common\bin\Debug\EnEntidad.pdb
+C:\AUNTPOISON\HABLA_CLARO\HABLACLARO_v2\Common\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\AUNTPOISON\HABLA_CLARO\HABLACLARO_v2\Common\Common\obj\Debug\Common.dll
+C:\AUNTPOISON\HABLA_CLARO\HABLACLARO_v2\Common\Common\obj\Debug\Common.pdb
+C:\AUNTPOISON\HABLA_CLARO\Copia de HABLACLARO_v2\Common\Common\bin\Debug\Common.dll
+C:\AUNTPOISON\HABLA_CLARO\Copia de HABLACLARO_v2\Common\Common\bin\Debug\Common.pdb
+C:\AUNTPOISON\HABLA_CLARO\Copia de HABLACLARO_v2\Common\Common\bin\Debug\EnEntidad.dll
+C:\AUNTPOISON\HABLA_CLARO\Copia de HABLACLARO_v2\Common\Common\bin\Debug\EnEntidad.pdb
+C:\AUNTPOISON\HABLA_CLARO\Copia de HABLACLARO_v2\Common\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\AUNTPOISON\HABLA_CLARO\Copia de HABLACLARO_v2\Common\Common\obj\Debug\Common.dll
+C:\AUNTPOISON\HABLA_CLARO\Copia de HABLACLARO_v2\Common\Common\obj\Debug\Common.pdb
+C:\AUNTPOISON\HABLA_CLARO\HABLACLARO_v3\Common\Common\bin\Debug\Common.dll
+C:\AUNTPOISON\HABLA_CLARO\HABLACLARO_v3\Common\Common\bin\Debug\Common.pdb
+C:\AUNTPOISON\HABLA_CLARO\HABLACLARO_v3\Common\Common\bin\Debug\EnEntidad.dll
+C:\AUNTPOISON\HABLA_CLARO\HABLACLARO_v3\Common\Common\bin\Debug\EnEntidad.pdb
+C:\AUNTPOISON\HABLA_CLARO\HABLACLARO_v3\Common\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\AUNTPOISON\HABLA_CLARO\HABLACLARO_v3\Common\Common\obj\Debug\Common.dll
+C:\AUNTPOISON\HABLA_CLARO\HABLACLARO_v3\Common\Common\obj\Debug\Common.pdb
+C:\AUNTPOISON\HABLA_CLARO\HABLACLARO_v4\Common\Common\bin\Debug\Common.dll
+C:\AUNTPOISON\HABLA_CLARO\HABLACLARO_v4\Common\Common\bin\Debug\Common.pdb
+C:\AUNTPOISON\HABLA_CLARO\HABLACLARO_v4\Common\Common\bin\Debug\EnEntidad.dll
+C:\AUNTPOISON\HABLA_CLARO\HABLACLARO_v4\Common\Common\bin\Debug\EnEntidad.pdb
+C:\AUNTPOISON\HABLA_CLARO\HABLACLARO_v4\Common\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\AUNTPOISON\HABLA_CLARO\HABLACLARO_v4\Common\Common\obj\Debug\Common.dll
+C:\AUNTPOISON\HABLA_CLARO\HABLACLARO_v4\Common\Common\obj\Debug\Common.pdb
+C:\AUNTPOISON\HABLA_CLARO\HABLACLARO_v5\Common\Common\bin\Debug\Common.dll
+C:\AUNTPOISON\HABLA_CLARO\HABLACLARO_v5\Common\Common\bin\Debug\Common.pdb
+C:\AUNTPOISON\HABLA_CLARO\HABLACLARO_v5\Common\Common\bin\Debug\EnEntidad.dll
+C:\AUNTPOISON\HABLA_CLARO\HABLACLARO_v5\Common\Common\bin\Debug\EnEntidad.pdb
+C:\AUNTPOISON\HABLA_CLARO\HABLACLARO_v5\Common\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\AUNTPOISON\HABLA_CLARO\HABLACLARO_v5\Common\Common\obj\Debug\Common.dll
+C:\AUNTPOISON\HABLA_CLARO\HABLACLARO_v5\Common\Common\obj\Debug\Common.pdb
+C:\AUNTPOISON\ELTRINCHE\Common\Common\bin\Debug\Common.dll
+C:\AUNTPOISON\ELTRINCHE\Common\Common\bin\Debug\Common.pdb
+C:\AUNTPOISON\ELTRINCHE\Common\Common\bin\Debug\EnEntidad.dll
+C:\AUNTPOISON\ELTRINCHE\Common\Common\bin\Debug\EnEntidad.pdb
+C:\AUNTPOISON\ELTRINCHE\Common\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\AUNTPOISON\ELTRINCHE\Common\Common\obj\Debug\Common.dll
+C:\AUNTPOISON\ELTRINCHE\Common\Common\obj\Debug\Common.pdb
+C:\UPC\Chilis\Common\Common\bin\Debug\Common.dll
+C:\UPC\Chilis\Common\Common\bin\Debug\Common.pdb
+C:\UPC\Chilis\Common\Common\bin\Debug\EnEntidad.dll
+C:\UPC\Chilis\Common\Common\bin\Debug\EnEntidad.pdb
+C:\UPC\Chilis\Common\Common\obj\Debug\ResolveAssemblyReference.cache
+C:\UPC\Chilis\Common\Common\obj\Debug\Common.dll
+C:\UPC\Chilis\Common\Common\obj\Debug\Common.pdb

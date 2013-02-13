@@ -1,0 +1,609 @@
+﻿/*
+*********************************************************************************
+Descripción       :Hoja de estilo cssFormularios, en que se establecen los estilos del
+				   de todos los formularios del Sistema.
+
+Creado por        :Municipalidad Metropolitana de Lima
+Fecha de Creación :21/05/2007
+*********************************************************************************
+*/
+
+/*Clase body, que permite poner estilo al cuerpo del Formulario*/
+body
+{
+	background-color: #feecc4;
+}
+
+/*Clase Titulos, que permite poner estilo a los Titulos del Formulario*/
+.Titulos
+{
+    font-weight: normal;
+    font-size: 13pt;
+    color: #e5d599;
+    font-family: Tahoma;
+    text-align: center;
+    background: #5b711e;
+}
+
+.Titulos2
+{
+    font-weight: normal;
+    font-size: 13pt;
+    color: #FFFFCC;
+    font-family: Tahoma;
+    text-align: center;
+    background: #7A552C;
+}
+
+.Titulos3
+{
+    font-weight: normal;
+    font-size: 10pt;
+    color: #000000;
+    font-family: Tahoma;
+    text-align: left;
+    background: #C09205;
+}
+
+.Titulos4
+{
+    font-weight: normal;
+    font-size: 10pt;
+    color: #FFFFCC;
+    font-family: Tahoma;
+    text-align: left;
+    background: #D8D8D8;
+    background: url(../Imagenes/IconosFormularios/imgfondoCelda.png);
+}
+
+.Titulos5
+{
+    font-weight: bold;
+    font-size: 13pt;
+    color: #FFFFCC;
+    font-family: Tahoma;
+    text-align: center;
+    background: url(../Imagenes/IconosFormularios/imgfondoCelda.png);
+}
+
+/*DataReader*/
+.TRCABECERA
+{
+    border: thin solid #663300;
+    font-size: 10px;
+    font-family: Verdana;
+    color: #221100;
+    background-color: #FFD79B;
+    margin-right: 0px;
+    font-weight: bold;
+    text-align: center;
+}
+.TRCONTENIDO
+{
+    border: 1px solid #663300;
+    font-size: 10px;
+    font-family: Verdana;
+    color: #290D05;
+    background-color: #FFFFCC;
+    margin-right: 0px;
+    text-align: center;
+}
+
+
+/*Clase Botones, que permite poner estilo a los botones del formulario de los Mantenimientos*/
+.Botones
+{
+    border: 2px solid #1D3038;
+    font-weight: bold;
+    font-size: 8pt;
+    color: #FFFFCC;
+    font-family: 'Century Gothic';
+    cursor: pointer;
+    background-color: #9e460c;
+    text-align: Center;
+    }
+
+/*Clase Etiquetas, que permite poner estilo a los Labels del formulario*/
+.Etiquetas
+{
+    font-size: 7.8pt;
+    color: #520f07;
+    font-family: Verdana;
+    text-align: left;
+    font-weight: bold;
+}
+
+/*Clase Etiquetas, que permite poner estilo a los Labels del formulario*/
+.Etiquetas2
+{
+    font-size: 7.8pt;
+    color: #663300;
+    font-family: Verdana;
+    text-align: right;
+    font-weight: bold;
+}
+
+/*Clase Etiquetas Informacion, que permite poner estilo a los Labels del formulario para Informacion*/
+.EtiquetasInformacion
+{
+    font-weight: normal;
+    font-size: 7pt;
+    color: #042A3B;
+    font-family: Verdana;
+    vertical-align: middle;
+    text-align: left;
+}
+
+/*Clase Etiquetas Informacion, que permite poner estilo a los Labels del Usuario y fecha de Impresion*/
+.EtiquetasInformacionImpresion
+{
+    font-weight: normal;
+    font-size: 6pt;
+    color: #042A3B;
+    font-family: Verdana;
+    vertical-align: middle;
+    text-align: left;
+}
+
+/*Clase EtiquetasEspeciales, que permite poner estilo a los Labels para Etiquetas Especiales del formulario*/
+.EtiquetasEspeciales
+{
+	font-weight: bold;
+	font-size: 7pt;
+	color: #0C394C;
+	font-family: Verdana;
+	vertical-align: middle;
+	text-align: left;
+	border-right: #0080c1 1px double;
+	border-top: #0080c1 1px double;
+	border-left: #0080c1 1px double;
+	border-bottom: #0080c1 1px double;
+	padding-right: 1px;
+	padding-left: 1px;
+	padding-bottom: 1px;
+	margin: 1px;
+	padding-top: 1px;
+	text-decoration: none;
+	border-color: #0C394C;
+}
+
+/*Clase OpcionUnica, que permite poner estilo al CheckBox del formulario*/
+.OpcionUnica
+{
+	color: #042A3B;
+	font-size: 7pt;
+	font-family: Verdana;
+	font-weight: bold;
+}
+
+/*Clase OpcionMultiple, que permite poner estilo a las CheckBoxs del formulario*/
+.OpcionMultiple
+{
+    color: #663300;
+    font-size: 7pt;
+    font-family: Verdana;
+    font-weight: bold;
+}
+
+/*Clase Opciones, que permite poner estilo a las radioButtons del formulario*/
+.Opciones
+{
+    color: #595926;
+    font-size: 8pt;
+    font-family: Verdana;
+    font-weight: bold;
+}
+
+/*Clase CajasDeTexto, que permite poner estilo a los TextBoxs del formulario*/
+.CajasDeTexto
+{
+	font-size: 8pt;
+	color: #000000;
+	font-family: Verdana;
+}
+
+/*Clase CajasDeTexto, que permite poner estilo a los TextBoxs del formulario*/
+.CajasDeTexto2
+{
+    font-size: 6pt;
+    color: #000000;
+    font-family: Verdana;
+}
+
+/*Clase CajasDeTextoMultiLine, que permite poner estilo a los TextBoxs MultiLine del formulario*/
+.CajasDeTextoMultiLine
+{
+	font-size: 8pt;
+	color: #000000;
+	font-family: Verdana;
+
+}
+
+/*Clase Combos, que permite poner estilo a los DropDownList del Formulario*/
+.Combos
+{
+	font-size: 7pt;
+	font-family: Verdana;
+	cursor: hand;
+}
+
+/*Clase Lista, que permite poner estilo a la listas del Formulario*/
+.Lista
+{
+	font-size: 7pt;
+	font-family: Verdana;
+	cursor: hand;
+}
+
+/*Clase Leyenda, que permite poner estilo para el grupo que contiene controles*/
+.Leyenda
+{
+	font-weight: bold;
+	font-size: 9pt;
+	color: #224c75;
+	font-family: Verdana;
+	text-align: left;
+}
+
+/******************************************************************************************
+Estilo para las Tablas de los Formularios
+*******************************************************************************************
+
+/*Clase PanelTabla, que permite poner estilo al Panel que contiene la tabla o grilla*/
+.PanelTabla
+{
+	overflow: auto;
+	background-color: #ECF2F5;
+	border-right: #4169e1 1px solid;
+	border-top: #4169e1 1px solid;
+	border-left: #4169e1 1px solid;
+	border-bottom: #4169e1 1px solid;
+}
+
+/*Clase Cabecera, que permite poner estilo a la cabecera de la tabla o grilla*/
+.Cabecera
+{
+	background-color: #b7ae8b;
+	font-size: 10px;
+	color: #05293A;
+	vertical-align: top;
+	text-align: center;
+}
+
+.Cabecera2
+{
+    background-color: #FFB951;
+    font-size: 10px;
+    color: #400000;
+    vertical-align: top;
+    text-align: center;
+}
+
+.Cabecera3
+{
+    background-color: #276478;
+    font-size: 10px;
+    color: #FFFFFF;
+    vertical-align: top;
+    text-align: center;
+}
+
+/*Clase CabeceraPaginacion, que permite poner estilo  a la paginacion de la tabla o grilla*/
+.CabeceraPaginacion
+{
+	background-color: #b7ae8b;
+	font-size: 10px;
+	color: BLACK;
+	vertical-align: top;
+	text-align: left;
+}
+
+/*Clase CabeceraOrdenacion, que permite poner estilo cuando se ordena la tabla o grilla*/
+.CabeceraOrdenacion
+{
+	color: BLACK;
+	font-size: 10px;
+}
+
+/*Clase Cuerpo, que permite poner estilo al cuerpo de la tabla o grilla*/
+.Cuerpo
+{
+   font-size: 9px;
+	font-family: Verdana;
+	color: Black;
+	background-color: #dcd6bd;
+}
+
+/*Clase Cuerpo, que permite poner estilo al cuerpo de la tabla o grilla*/
+.Cuerpo2
+{
+    font-size: 8px;
+    font-family: Verdana;
+    color: #583A1D;
+    background-color: #FFFFCC;
+}
+
+.Cuerpo3
+{
+    font-size: 8px;
+    font-family: Verdana;
+    color: #003366;
+    background-color: #D9F2FF;
+}
+
+/*Clase SeleccionarRegistro, que permite poner estilo a las celdas de la tabla o grilla*/
+.SeleccionarRegistro
+{
+	font-size: 8px;
+	background-color: #b7ae8b;
+	vertical-align: top;
+	text-align: center;
+	font-family: Verdana;
+	font-weight: bold;
+}
+
+
+/*Clase FilaSeleccionada, que permite poner estilo cuando se selecciona un registro de la tabla o grilla*/
+.FilaSeleccionada
+{
+	font-size: 8px;
+	background-color: #b7ae8b;
+	vertical-align: top;
+	font-family: Verdana;
+	font-weight: bold;
+	color: White;
+}
+
+/*Clase MensajeTabla, que permite poner estilo para la etiqueta del mensaje de la tabla o grilla*/
+.MensajeTabla
+{
+    font-size: 10px;
+    vertical-align: top;
+    text-align: center;
+    font-family: Verdana;
+    font-weight: bold;
+    color: #800000;
+}
+
+/*Clase FondoFilaGrilla, que permite poner estilo a las filas de la tabla o grilla*/
+.FondoFilaGrilla
+{
+    background-color: #FFFFCC;
+}
+
+/*Clase Tabla, que permite poner estilo al Panel que contiene la tabla o grilla*/
+.Tabla
+{
+	overflow: auto;
+	background-color: #e4e1d4;
+	border-right: #4169e1 1px solid;
+	border-top: #4169e1 1px solid;
+	border-left: #4169e1 1px solid;
+	border-bottom: #4169e1 1px solid;
+	border-color: #343125;
+}
+
+/*Clase Celda, que permite poner estilo a una Celda de la tabla o grilla*/
+.Celda
+{
+	background-color: #b7ae8b;
+	font-size: 10px;
+	color: #05293A;
+	vertical-align: top;
+	text-align: left;
+}
+
+
+/********************************************************************************************
+Estilo los controles de los campos que se desea resaltar MUY IMPORTANTE. 
+*********************************************************************************************/
+
+
+/*Clase Etiquetas, que permite poner estilo a los Labels Importantes*/
+.NombreCampoImportante
+{
+    font-size: 7.8pt;
+    color: #800000;
+    font-family: Verdana;
+    text-align: right;
+    font-weight: bold;
+}
+
+
+/*Clase EtiquetasEspeciales, que permite poner estilo a los Labels para Etiquetas Importantes del formulario*/
+.EtiquetasImportantes
+{
+    font-weight: bold;
+    font-size: 7pt;
+    color: #990000;
+    font-family: Verdana;
+    vertical-align: middle;
+    text-align: left;
+    border-right: #0080c1 1px double;
+    border-top: #0080c1 1px double;
+    border-left: #0080c1 1px double;
+    border-bottom: #0080c1 1px double;
+    padding-right: 1px;
+    padding-left: 1px;
+    padding-bottom: 1px;
+    margin: 1px;
+    padding-top: 1px;
+    text-decoration: none;
+    border-color: #990000;
+}
+
+
+/*Clase Leyenda, que permite poner estilo para el grupo que contiene controles Importantes*/
+.Leyenda
+{
+    font-weight: bold;
+    font-size: 9pt;
+    color: #800000;
+    font-family: Verdana;
+    text-align: left;
+}
+
+/*Clase Leyenda, que permite poner estilo para el grupo que contiene controles Importantes*/
+.fieldset
+{   
+    border: 1px double #800000;
+    font-weight: bold;
+    font-size: 9pt;
+    color: #800000;
+    font-family: Verdana;
+    text-align: left;
+    -moz-border-radius:5px;     
+    -border-radius: 5px;  
+    -border-color: #800000;   
+    -line-height: normal; 
+    vertical-align: bottom; 
+    background-color: #dcd6bd;   }
+
+
+
+
+
+
+
+
+
+
+
+/********************************************************************************************
+Estilo los links de los formularios. Tambien afecta a las tablas
+*********************************************************************************************/
+
+/*Clase A:link, que permite poner el estilo al link*/
+A:link
+{
+	color: BLACK;
+	font-weight: bold;
+	font-size: 7pt;
+	font-family: Verdana;
+}
+
+/*Clase A:active, que permite poner el estilo cuando el usuario
+  activa o hace click sobre el link*/
+A:active
+{
+	color: #b8860b;
+	font-weight: bold;
+	font-size: 7pt;
+	font-family: Verdana;
+}
+
+/*Clase A:hover, que permite poner el estilo cuando el usuario
+  pasa con el mouse sobre el link*/
+A:hover
+{
+	color: #b8860b;
+	font-weight: bold;
+	font-size: 7pt;
+	font-family: Verdana;
+}
+
+/*Clase A:visited, que permite poner el estilo cuando el usuario
+  ya activo el link o ya fue activado*/
+A:visited
+{
+	color: #b8860b;
+	font-weight: bold;
+	font-size: 7pt;
+	font-family: Verdana;
+}
+
+
+
+/*******************************************************************
+Estilo para los filtros en las cajas de Textos utilizando
+el control Ajax: AutoComplete
+*********************************************************************/
+
+/*Clase ElementosLista, que permite poner estilo a los elementos de la lista
+del filtro*/
+.ElementosLista 
+{  
+	visibility : hidden;
+	margin : 0px!important;
+	background-color : window;
+	color : windowtext;
+	border : buttonshadow;
+	border-width : 1px;
+	border-style : solid;
+	cursor : 'default';
+	overflow : auto;
+	height : 200px;
+    text-align : left; 
+    list-style-type : none;
+}
+
+/*Clase PorItemLista, que permite poner estilo a un item de la lista
+del filtro*/
+.PorItemLista
+{
+	background-color: #ffff99;
+	color: #000080;
+	font-weight: bold;
+	font-size: 7pt;
+	font-family: Verdana;
+	cursor: hand;
+}
+
+/*Clase ItemLista, que permite poner estilo a cada item de la lista
+del filtro*/
+.ItemLista
+{
+	background-color: window;
+	color: #000080;
+	font-weight: bold;
+	font-size: 7pt;
+	font-family: Verdana;
+}
+
+/**Estilo para el Treevew **/
+
+/*Clase Nodo, que permite poner el estilo al nodo padre del treview*/
+.Nodo
+{
+	color: #006699;
+	font-weight: bold;
+	font-size: 6pt;
+	font-family: Verdana;
+}
+
+/*Clase NodoPadre, que permite poner el estilo al nodo padre del treview*/
+.NodoPadre
+{
+	font-weight: bold;
+	font-size: 5pt;
+	color: #999966;
+	font-family: Verdana;
+	vertical-align: middle;
+	text-align: left;
+}
+
+
+/*Clase NodoRaiz, que permite poner el estilo al nodo Raiz del treview*/
+.NodoRaiz
+{
+	font-weight: bold;
+	font-size: 7pt;
+	color: #006699;
+	font-family: Verdana;
+	vertical-align: middle;
+	text-align: left;
+}
+
+.CabeceraReporte
+{
+border-right: #72A3CC 2px solid;
+border-top: #72A3CC 2px solid;
+border-left: #72A3CC 2px solid;
+border-bottom: #72A3CC 2px solid;
+font-weight: bold;
+    font-size: 8pt;
+    color: #042A3B;
+    font-family: Arial Narrow;
+    vertical-align: middle;
+    text-align: center;
+}

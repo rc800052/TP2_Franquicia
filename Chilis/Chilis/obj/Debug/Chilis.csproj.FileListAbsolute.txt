@@ -1,0 +1,13 @@
+C:\UPC\Chilis\Chilis\bin\Chilis.dll
+C:\UPC\Chilis\Chilis\bin\Chilis.pdb
+C:\UPC\Chilis\Chilis\obj\Debug\ResolveAssemblyReference.cache
+C:\UPC\Chilis\Chilis\obj\Debug\Chilis.dll
+C:\UPC\Chilis\Chilis\obj\Debug\Chilis.pdb
+C:\UPC\Chilis\Chilis\bin\Common.dll
+C:\UPC\Chilis\Chilis\bin\EnEntidad.dll
+C:\UPC\Chilis\Chilis\bin\NeNegocio.dll
+C:\UPC\Chilis\Chilis\bin\DaDatos.dll
+C:\UPC\Chilis\Chilis\bin\Common.pdb
+C:\UPC\Chilis\Chilis\bin\EnEntidad.pdb
+C:\UPC\Chilis\Chilis\bin\NeNegocio.pdb
+C:\UPC\Chilis\Chilis\bin\DaDatos.pdb

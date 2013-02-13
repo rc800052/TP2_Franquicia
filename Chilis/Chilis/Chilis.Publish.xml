@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\UPC\publicar" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Perfil1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/NeNegocio.dll" publishTime="02/11/2013 02:31:40" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Data.dll" publishTime="08/22/2008 17:24:28" />
+    <file relUrl="registrarEntrevista.aspx" publishTime="02/10/2013 23:04:17" />
+    <file relUrl="bin/Chilis.pdb" publishTime="02/11/2013 02:35:53" />
+    <file relUrl="Global.asax" publishTime="02/05/2013 00:09:28" />
+    <file relUrl="bin/Common.dll" publishTime="02/11/2013 02:31:39" />
+    <file relUrl="bin/log4net.dll" publishTime="10/06/2011 20:44:18" />
+    <file relUrl="buscarEntrevista.aspx" publishTime="02/10/2013 23:22:21" />
+    <file relUrl="detallesol.aspx" publishTime="02/11/2013 02:23:43" />
+    <file relUrl="index.aspx" publishTime="02/10/2013 23:04:17" />
+    <file relUrl="bin/NeNegocio.pdb" publishTime="02/11/2013 02:31:40" />
+    <file relUrl="img/btn_cerrar.gif" publishTime="09/21/2010 13:59:28" />
+    <file relUrl="css/cssFormulario.css" publishTime="02/10/2013 23:02:58" />
+    <file relUrl="buscarSolEntrevista.aspx" publishTime="02/10/2013 23:04:18" />
+    <file relUrl="bin/Common.pdb" publishTime="02/11/2013 02:31:39" />
+    <file relUrl="bin/EnEntidad.pdb" publishTime="02/10/2013 23:45:19" />
+    <file relUrl="detalleEntrevista.aspx" publishTime="02/10/2013 23:53:52" />
+    <file relUrl="bin/Chilis.dll" publishTime="02/11/2013 02:35:53" />
+    <file relUrl="bin/DaDatos.dll" publishTime="02/10/2013 23:45:20" />
+    <file relUrl="logfile.txt" publishTime="02/11/2013 02:33:14" />
+    <file relUrl="Default.aspx" publishTime="02/01/2013 19:19:25" />
+    <file relUrl="bin/EnEntidad.dll" publishTime="02/10/2013 23:45:19" />
+    <file relUrl="consultasol.aspx" publishTime="02/10/2013 23:13:38" />
+    <file relUrl="bin/Microsoft.Practices.ObjectBuilder.dll" publishTime="05/21/2007 18:06:42" />
+    <file relUrl="bin/MsgBox.dll" publishTime="09/14/2007 15:20:00" />
+    <file relUrl="actualizarsol.aspx" publishTime="02/10/2013 23:04:17" />
+    <file relUrl="notificacion.aspx" publishTime="02/10/2013 17:47:14" />
+    <file relUrl="Web.config" publishTime="02/05/2013 00:35:05" />
+    <file relUrl="bin/Microsoft.Practices.EnterpriseLibrary.Common.dll" publishTime="08/22/2008 17:24:18" />
+    <file relUrl="bin/DaDatos.pdb" publishTime="02/10/2013 23:45:20" />
+    <file relUrl="img/boton_t.png" publishTime="09/21/2010 13:59:28" />
+    <file relUrl="img/editar.png" publishTime="09/06/2010 15:57:40" />
+    <file relUrl="img/lupa.png" publishTime="09/21/2010 13:59:28" />
+  </publishProfile>
+</publishData>

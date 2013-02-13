@@ -1,0 +1,5 @@
+2013-02-05 00:25:28,697 [4] ERROR File Error Error al convertir el valor del parámetro de String a DateTime.Metodo :MantenimientoSolicitud
+2013-02-05 00:27:20,415 [4] INFO  File This is mmm
+2013-02-05 00:27:20,415 [4] WARN  File This is warning
+2013-02-05 00:27:20,415 [4] ERROR File This error
+2013-02-05 00:27:20,415 [4] DEBUG File this debug 
